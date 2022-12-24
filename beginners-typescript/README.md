@@ -1,4 +1,4 @@
-# typescript-book
+# beginner's typescript
 
 ![wizard](https://github.com/Doringl/typescript-book/blob/main/wizard-in-a-cave%402x.webp?raw=true)
 
